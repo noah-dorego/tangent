@@ -1,4 +1,4 @@
-import { Feed } from "@/components/ui/feed-container";
+import { Feed } from "@/components/general/feed-container";
 
 export default function Page() {
   return (
